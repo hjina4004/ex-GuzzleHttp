@@ -1,0 +1,8 @@
+{
+    "name": "lmfriends/ex-composer",
+    "description": "composer workspace",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
